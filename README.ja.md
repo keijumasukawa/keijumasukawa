@@ -1,0 +1,18 @@
+# Keiju Masukawa
+
+[English](https://github.com/keijumasukawa/keijumasukawa/blob/main/README.md) | 日本語
+
+<!-- 内容を更新した際は README.md(英語版)も忘れずに同期すること -->
+
+## 👋 自己紹介
+
+TypeScript / JavaScript を中心に、フロントエンドからバックエンドまで、モダンで使いやすい Web アプリケーションづくりに取り組んでいます。
+学習や技術検証を兼ねたアプリ制作を通じて、Claude Code などの AI ツールをはじめとした新しい技術も積極的に取り入れています。
+
+## 🛠️ プロジェクト
+
+| Repository | About | Topics | Website |
+| --- | --- | --- | --- |
+| [video-sharing-app](https://github.com/keijumasukawa/video-sharing-app) | 動画をアップロードして再生できる動画共有アプリ。<br />ログインして動画を投稿し、一覧から選んで視聴できる。<br />ブラウザからすぐに試せる形で公開中。 | <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20" /> <img src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js" title="Next.js" height="20" /> <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20" /> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="20" /> <img src="https://cdn.simpleicons.org/shadcnui/black/white" alt="shadcn/ui" title="shadcn/ui" height="20" /> <img src="https://cdn.simpleicons.org/trpc" alt="tRPC" title="tRPC" height="20" /> <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" title="Drizzle ORM" height="20" /> <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="20" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20" /> <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" /> | [Visit site](https://video-sharing-app-sand.vercel.app) |
+| [video-meeting-app](https://github.com/keijumasukawa/video-meeting-app) | URL 共有で始められるビデオ会議アプリ。(開発中)<br />アプリのインストール不要で、ブラウザだけで複数人のビデオ通話ができる。<br />画面共有やチャットなどの機能も追加予定。 | <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20" /> <img src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js" title="Next.js" height="20" /> <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" title="NestJS" height="20" /> <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20" /> <img src="https://cdn.simpleicons.org/webrtc/black/white" alt="WebRTC" title="WebRTC" height="20" /> <img src="https://cdn.simpleicons.org/socketdotio/black/white" alt="Socket.IO" title="Socket.IO" height="20" /> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="20" /> <img src="https://cdn.simpleicons.org/shadcnui/black/white" alt="shadcn/ui" title="shadcn/ui" height="20" /> <img src="https://cdn.simpleicons.org/prisma/black/white" alt="Prisma" title="Prisma" height="20" /> <img src="https://cdn.simpleicons.org/neon" alt="Neon" title="Neon" height="20" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20" /> <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" /> | - |
+
