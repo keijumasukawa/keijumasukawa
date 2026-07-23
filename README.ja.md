@@ -6,14 +6,64 @@
 
 ## 👋 自己紹介
 
-TypeScript / JavaScript を中心に、フロントエンドからバックエンドまで、モダンで使いやすい Web アプリケーションづくりに取り組んでいます。
-学習や技術検証を兼ねたアプリ制作を通じて、Claude Code などの AI ツールをはじめとした新しい技術も積極的に取り入れています。
+学習と技術検証を兼ねて、日々アプリづくりに取り組んでいます。
+TypeScript / JavaScript を中心にフロントからバックエンドまで幅広く触れ、Claude Code などの AI ツールも活用しながら新しい技術を吸収しています。
 
 ## 🛠️ プロジェクト
 
-| Repository | About | Topics | Website |
-| --- | --- | --- | --- |
-| [video-sharing-app](https://github.com/keijumasukawa/video-sharing-app) | 動画をアップロードして再生できる、シンプルな動画共有アプリです。<br />ログインすると動画を投稿でき、一覧から選んで管理できます。 | <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20" /> <img src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js" title="Next.js" height="20" /> <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20" /> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="20" /> <img src="https://cdn.simpleicons.org/shadcnui/black/white" alt="shadcn/ui" title="shadcn/ui" height="20" /> <img src="https://cdn.simpleicons.org/trpc" alt="tRPC" title="tRPC" height="20" /> <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" title="Drizzle ORM" height="20" /> <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="20" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20" /> <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" /> | [Visit site](https://video-sharing-app-sand.vercel.app) |
-| [dot-chaser-app](https://github.com/keijumasukawa/dot-chaser-app) | 🚧(開発中)<br />パックマン風の迷路ゲームです。<br />ゴースト AI やオンラインランキング機能などを追加予定。 | <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" /> <img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="20" /> <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" height="20" /> <img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="20" /> <img src="https://cdn.simpleicons.org/vitest" alt="Vitest" title="Vitest" height="20" /> <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" /> | [Visit site](https://dot-chaser-app.vercel.app) |
-| [video-meeting-app](https://github.com/keijumasukawa/video-meeting-app) | 🚧(開発中)<br />URL 共有で始められるビデオ会議アプリです。<br />アプリのインストール不要で、ブラウザだけで複数人でビデオ通話ができます。<br />画面共有やチャットなどの機能を追加予定。 | <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20" /> <img src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js" title="Next.js" height="20" /> <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" title="NestJS" height="20" /> <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20" /> <img src="https://cdn.simpleicons.org/webrtc/black/white" alt="WebRTC" title="WebRTC" height="20" /> <img src="https://cdn.simpleicons.org/socketdotio/black/white" alt="Socket.IO" title="Socket.IO" height="20" /> <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="20" /> <img src="https://cdn.simpleicons.org/shadcnui/black/white" alt="shadcn/ui" title="shadcn/ui" height="20" /> <img src="https://cdn.simpleicons.org/prisma/black/white" alt="Prisma" title="Prisma" height="20" /> <img src="https://cdn.simpleicons.org/neon" alt="Neon" title="Neon" height="20" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20" /> <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" /> | - |
+### [video-sharing-app](https://github.com/keijumasukawa/video-sharing-app) &nbsp;·&nbsp; [🔗 Visit site](https://video-sharing-app-sand.vercel.app)
+
+動画をアップロードして再生できる動画共有アプリです。<br />
+ログインすると動画の投稿や管理ができます。
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js" title="Next.js" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/black/white" alt="shadcn/ui" title="shadcn/ui" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/trpc" alt="tRPC" title="tRPC" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/drizzle" alt="Drizzle ORM" title="Drizzle ORM" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" />
+</p>
+
+### [dot-chaser-app](https://github.com/keijumasukawa/dot-chaser-app) &nbsp;·&nbsp; [🔗 Visit site](https://dot-chaser-app.vercel.app)
+
+🚧(開発中)<br />
+パックマン風の迷路ゲームです。<br />
+ゴースト AI 、ランキングなど追加予定。
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" title="HTML5" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vite" alt="Vite" title="Vite" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vitest" alt="Vitest" title="Vitest" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" />
+</p>
+
+### [video-meeting-app](https://github.com/keijumasukawa/video-meeting-app)
+
+🚧(開発中)<br />
+URL 共有で始められるビデオ会議アプリです。<br />
+ビデオ通話、画面共有、チャットなど追加予定。
+
+<p>
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/black/white" alt="Next.js" title="Next.js" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" title="NestJS" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/webrtc/black/white" alt="WebRTC" title="WebRTC" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/black/white" alt="Socket.IO" title="Socket.IO" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/black/white" alt="shadcn/ui" title="shadcn/ui" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/black/white" alt="Prisma" title="Prisma" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/neon" alt="Neon" title="Neon" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="20" />&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="20" />
+</p>
 
